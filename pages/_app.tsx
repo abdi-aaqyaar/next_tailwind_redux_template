@@ -17,7 +17,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
         <meta name="keywords" content="E-commerce" />
         <meta name="keywords" content="e-commerce somali" />
         <meta name="keywords" content="web app e-commerce" />
-        <title>IDAN | E-commerce</title>
+        <title>E-commerce</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Provider store={store}>
